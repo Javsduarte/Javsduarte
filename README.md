@@ -1,16 +1,22 @@
 ## Hi there 👋
+Boas vindas ao meu perfil 💙💙
+Meu nome é jamilly sobrenome duarte
 
-<!--
-**Javsduarte/Javsduarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou estudando na [Alura].(www.alura.com.br)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou me desenvolvendo na linguagem JavaScript
+
+
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+
+Você pode entrar em contato comigo 📫
+
+
+alurastartestudante@email.com
+
+
+@alurastartestudante
+
+![.](<img src="https://media.tenor.com/_iheVyzHcTgAAAAM/bandeira-do-s%C3%A3o-paulo-s%C3%A3o-paulo-fc.gif" alt="Bandeira Do São Paulo São Paulo Fc GIF - Bandeira Do São Paulo São Paulo Fc Torcedores Do São Paulo GIFs"/>![image](https://github.com/Javsduarte/Javsduarte/assets/171954658/998f1a47-d679-44b1-b6cd-42c2dce2f873)

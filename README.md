@@ -1,6 +1,6 @@
 ## Hi there 👋
 Boas vindas ao meu perfil 💙💙
-Meu nome é jamilly sobrenome duarte
+Meu nome é jamilly duarte
 
 Estou estudando na [Alura].(www.alura.com.br)
 
